@@ -1,9 +1,3 @@
-{
-count: 20,
-totalCount: 1885,
-page: 1,
-totalPages: 95,
-lastItemIndex: 20,
 results: [
 {
 tags: [
@@ -252,4 +246,3 @@ dateAdded: "2021-05-12",
 dateModified: "2021-05-12"
 }
 ]
-}
